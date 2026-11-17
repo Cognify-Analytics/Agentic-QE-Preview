@@ -1,0 +1,17 @@
+{
+  "name": "agentic-qe-preview",
+  "displayName": "Agentic QE Preview",
+  "description": "Report-only preview of Agentic QE: writes unit tests, documents a codebase, runs the tests, and triages failures, all inside Claude Code.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Cognify Analytics"
+  },
+  "homepage": "https://github.com/Cognify-Analytics/Agentic-QE-Preview",
+  "repository": "https://github.com/Cognify-Analytics/Agentic-QE-Preview",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://github.com/Cognify-Analytics/Agentic-QE-Preview#privacy",
+  "termsOfServiceUrl": "https://github.com/Cognify-Analytics/Agentic-QE-Preview/blob/main/TERMS.md",
+  "supportUrl": "mailto:business@cogniify.ai",
+  "documentationUrl": "https://github.com/Cognify-Analytics/Agentic-QE-Preview#readme",
+  "keywords": ["testing", "qa", "test-generation", "coverage", "triage"]
+}

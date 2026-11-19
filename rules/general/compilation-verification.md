@@ -1,10 +1,3 @@
----
-title: Post-Generation Compilation Verification
-impact: HIGH
-impactDescription: ensures generated tests compile/build successfully before delivery
-tags: tests, compilation, verification, build, ci
----
-
 ## Post-Generation Compilation Verification
 
 After generating test files, verify they compile/build successfully. Fix any issues before completing the task.

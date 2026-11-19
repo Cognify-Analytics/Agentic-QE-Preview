@@ -1,10 +1,3 @@
----
-title: Pytest Conventions
-impact: HIGH
-impactDescription: keeps generated Python tests idiomatic and consistent with the pytest ecosystem
-tags: python, pytest, conventions, fixtures, parametrize
----
-
 ## Pytest Conventions
 
 Use pytest idioms, not a ported-over xUnit/JUnit style. No assertion library is needed — plain `assert` is the convention.

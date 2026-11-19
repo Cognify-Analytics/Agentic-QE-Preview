@@ -1,10 +1,3 @@
----
-title: Mocking in JavaScript / TypeScript
-impact: HIGH
-impactDescription: keeps mocking minimal, correctly hoisted, typed, and reset between tests in Jest and Vitest
-tags: javascript, typescript, mocking, jest, vitest, msw, fake-timers
----
-
 ## Mocking in JavaScript / TypeScript
 
 Mock only true externalities (`general-principles.md` rule #5). In JS/TS that means:

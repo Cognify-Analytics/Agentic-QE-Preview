@@ -1,10 +1,3 @@
----
-title: Mocking in Java (Mockito)
-impact: HIGH
-impactDescription: keeps Mockito use minimal, strict and readable, so that tests fail for behavioural reasons rather than stubbing noise
-tags: java, mockito, mocking, argument-captor, strict-stubs, mockstatic
----
-
 ## Mocking in Java (Mockito)
 
 Mock only true externalities (`general-principles.md` rule #5): repositories and DAOs, HTTP and SDK clients, message publishers, the clock, ID generators, and other services behind an interface. **Never mock** the class under test, records, DTOs, entities, value objects, collections or `String`s. Build real ones (`java-test-data.md`).

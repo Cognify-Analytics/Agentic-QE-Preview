@@ -1,10 +1,3 @@
----
-title: Testing Kotlin Coroutines and Flows
-impact: HIGH
-impactDescription: tests suspend functions, dispatchers and flows deterministically, in virtual time, without real delays or leaked coroutines
-tags: kotlin, coroutines, runTest, flow, turbine, dispatchers, virtual-time
----
-
 ## Testing Kotlin Coroutines and Flows
 
 Read this when the target has `suspend` functions, launches coroutines, or exposes `Flow`/`StateFlow`. It needs `kotlinx-coroutines-test` on the test classpath. Without it, `runBlocking { }` works for plain suspend calls that don't `delay` or launch background work. Note the gap, and skip time-dependent behaviour.

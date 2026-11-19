@@ -1,10 +1,3 @@
----
-title: Serialized Payloads in Tests
-impact: HIGH
-impactDescription: prevents test fragility and ensures explicit test data
-tags: tests, json, serialization, payloads
----
-
 ## Serialized Payloads in Tests
 
 Use explicit literal payloads (JSON, YAML, or similar) instead of the same runtime serializer under test, so tests are deterministic and clearly show expected data.

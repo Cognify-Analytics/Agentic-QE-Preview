@@ -1,10 +1,3 @@
----
-title: Testing Node.js Backends
-impact: HIGH
-impactDescription: unit-tests services, routes and middleware of Express, Fastify, NestJS, Koa and Hono apps in-process, without real ports, databases or files
-tags: nodejs, express, fastify, nestjs, koa, hono, supertest, node-test, backend
----
-
 ## Testing Node.js Backends
 
 Read this when the stack is a Node server or CLI: `express`, `fastify`, `@nestjs/core`, `koa` or `hono` in the dependencies, or a `server.ts`/`index.ts` that starts one. It builds on the rest of `rules/lang/javascript/`.

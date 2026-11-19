@@ -1,10 +1,3 @@
----
-title: Test Behaviors, Not Methods
-impact: HIGH
-impactDescription: creates resilient tests that survive refactoring
-tags: tests, behaviors, resilient, maintainable
----
-
 ## Test Behaviors, Not Methods
 
 Structure tests around behaviors (what the system does), not around methods (how it's implemented).

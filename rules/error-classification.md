@@ -1,10 +1,3 @@
----
-title: Error Classification — Bad Test vs Real Bug
-impact: CRITICAL
-impactDescription: decides which failures get auto-fixed and which get escalated to a human; the single highest-stakes decision this project makes
-tags: triage, classification, safety
----
-
 ## Error Classification — Bad Test vs Real Bug
 
 Every test failure gets exactly one label: **SIMPLE**, **COMPLEX**, or

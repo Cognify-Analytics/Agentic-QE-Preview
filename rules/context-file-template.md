@@ -1,10 +1,3 @@
----
-title: Context File Template
-impact: HIGH
-impactDescription: fixes the shape of .qa/context.md so every run looks the same and later stages can rely on it
-tags: context, template, documentation
----
-
 ## Context File Template
 
 `.qa/context.md` always has this shape, in this order. Do not add extra

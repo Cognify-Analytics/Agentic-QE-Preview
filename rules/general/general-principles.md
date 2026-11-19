@@ -1,10 +1,3 @@
----
-title: General Test Principles
-impact: HIGH
-impactDescription: ensures tests are maintainable, reliable, and focused on behavior
-tags: tests, principles, patterns, best-practices
----
-
 ## General Test Principles
 
 Follow these core principles for writing effective, maintainable tests.

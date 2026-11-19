@@ -1,10 +1,3 @@
----
-title: Mocking in Kotlin (MockK, or Mockito with mockito-kotlin)
-impact: HIGH
-impactDescription: keeps Kotlin mocks strict, minimal and null-safe, and keeps global mocks from leaking between tests
-tags: kotlin, mockk, mockito-kotlin, mocking, coroutines, slots
----
-
 ## Mocking in Kotlin
 
 Same principle as every language (`general-principles.md` rule #5): mock repositories, clients, publishers and gateways. Never mock the class under test, data classes, value classes or sealed results; construct them (`kotlin-test-conventions.md` §5).

@@ -1,10 +1,3 @@
----
-title: Testing Next.js Applications
-impact: HIGH
-impactDescription: unit-tests each kind of Next.js code (components, route handlers, server actions, middleware, data functions) through the seam that actually works for it
-tags: nextjs, react, app-router, pages-router, route-handlers, server-actions, middleware
----
-
 ## Testing Next.js Applications
 
 Read this when the stack has `next` in its dependencies. **Also read `frameworks/react.md`**, which covers every component test here. Next.js mixes code that runs in very different places (browser components, server components, HTTP handlers, edge middleware), and each one has a different unit-test seam.

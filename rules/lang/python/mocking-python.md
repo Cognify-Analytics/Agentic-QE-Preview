@@ -1,10 +1,3 @@
----
-title: Mocking in Python
-impact: HIGH
-impactDescription: keeps mocking minimal, targeted, and idiomatic to unittest.mock/pytest-mock
-tags: python, mocking, unittest.mock, pytest-mock
----
-
 ## Mocking in Python
 
 Use `unittest.mock` (`Mock`, `MagicMock`, `patch`) or `pytest-mock`'s `mocker` fixture. Mock only true externalities — never simple value objects, and never the system under test itself. This mirrors the general principle in `rules/general/general-principles.md` rule #5: minimal, targeted mocking.

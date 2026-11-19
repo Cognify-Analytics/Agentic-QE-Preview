@@ -1,10 +1,3 @@
----
-title: Python Test Location
-impact: MEDIUM
-impactDescription: keeps generated Python tests in the location the ecosystem and this project expect
-tags: python, test-location, tests-directory
----
-
 ## Python Test Location
 
 Python tests go in a top-level `tests/` directory, mirroring the `src/` package structure. This is consistent with the Python row of `rules/test-location-map.md`.

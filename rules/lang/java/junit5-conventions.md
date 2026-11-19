@@ -1,10 +1,3 @@
----
-title: JUnit 5 Conventions (Java)
-impact: HIGH
-impactDescription: keeps generated Java tests idiomatic JUnit Jupiter, consistent with the house style, and runnable by Surefire and Gradle
-tags: java, junit5, junit-jupiter, parameterized-tests, nested, junit4
----
-
 ## JUnit 5 Conventions (Java)
 
 Also read `rules/lang/jvm/jvm-build-and-location.md` (build, location, coverage). If the build only has JUnit 4, see §8.

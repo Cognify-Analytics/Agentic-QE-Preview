@@ -1,10 +1,3 @@
----
-title: Testing React Components and Hooks
-impact: HIGH
-impactDescription: tests React UI through what the user sees and does, with React Testing Library, instead of through component internals
-tags: react, react-testing-library, user-event, jest-dom, hooks, jsdom
----
-
 ## Testing React Components and Hooks
 
 Read this when the stack has `react` in its dependencies (and so for every Next.js repo). It builds on the rest of `rules/lang/javascript/`.

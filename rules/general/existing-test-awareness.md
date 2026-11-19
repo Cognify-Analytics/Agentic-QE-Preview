@@ -1,10 +1,3 @@
----
-title: Existing Test Awareness
-impact: HIGH
-impactDescription: prevents duplicate tests and ensures consistency with project conventions
-tags: tests, awareness, duplicates, conventions, style
----
-
 ## Existing Test Awareness
 
 Before generating tests, check what already exists. Match the project's testing conventions and avoid duplicating coverage.

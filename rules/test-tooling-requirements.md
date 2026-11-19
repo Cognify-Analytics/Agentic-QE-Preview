@@ -1,10 +1,3 @@
----
-title: Test Tooling Requirements
-impact: HIGH
-impactDescription: tells a developer exactly which test tools their repo is missing, in which version, and how to add them, before a pipeline run fails on it
-tags: context, setup, dependencies, versions, powershell, build-context
----
-
 ## Test Tooling Requirements
 
 Section 5 of `.qa/context.md` lists, per stack, what the QA pipeline needs in the repo to generate, run and measure tests. It shows what's present and what's missing, the version that fits **this** repo, and the exact steps to add it. The pipeline never installs into or edits a repo's manifests (`rules/general/compilation-verification.md`), so this section is the only place a developer learns what to add.

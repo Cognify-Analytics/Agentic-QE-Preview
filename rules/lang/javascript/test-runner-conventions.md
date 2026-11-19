@@ -1,10 +1,3 @@
----
-title: JavaScript / TypeScript Test Runner Conventions
-impact: HIGH
-impactDescription: picks the runner the repo actually uses (Jest, Vitest, node:test) and writes tests idiomatic to it
-tags: javascript, typescript, jest, vitest, node-test, conventions, assertions
----
-
 ## JavaScript / TypeScript Test Runner Conventions
 
 This folder covers JavaScript and TypeScript alike. Examples are TypeScript; in a plain-JS repo drop the type annotations and nothing else changes. Framework-specific rules (React, Next.js, Node backends) live in `frameworks/`.

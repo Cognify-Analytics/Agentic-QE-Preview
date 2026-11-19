@@ -1,10 +1,3 @@
----
-title: TypeScript in Tests
-impact: HIGH
-impactDescription: keeps tests type-checked against the real source types so they cannot invent fields or methods
-tags: typescript, types, builders, ts-expect-error, path-aliases
----
-
 ## TypeScript in Tests
 
 Tests are typed code. A test that only compiles because of `any` will happily call a method that doesn't exist or build an object with a misspelled field. That is the failure `code-context-analysis.md` exists to prevent. In a plain-JS repo, skip this file.

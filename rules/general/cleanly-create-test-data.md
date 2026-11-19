@@ -1,10 +1,3 @@
----
-title: Cleanly Create Test Data
-impact: HIGH
-impactDescription: improves test readability and maintainability through clean data setup
-tags: tests, test-data, helpers, builders, readability
----
-
 ## Cleanly Create Test Data
 
 Use helper functions and builder patterns to create test data cleanly. Avoid cluttering tests with irrelevant details.

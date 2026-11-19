@@ -1,10 +1,3 @@
----
-title: Only Verify Relevant Method Arguments
-impact: MEDIUM
-impactDescription: reduces test fragility and focuses verification on tested behavior
-tags: tests, verification, mocks, arguments, focused
----
-
 ## Only Verify Relevant Method Arguments
 
 When verifying mock/stub interactions, only check arguments that are relevant to the specific behavior being tested. Use a wildcard/any-value matcher for irrelevant arguments.

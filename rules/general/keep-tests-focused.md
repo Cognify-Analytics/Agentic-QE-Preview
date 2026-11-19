@@ -1,10 +1,3 @@
----
-title: Keep Tests Focused
-impact: HIGH
-impactDescription: ensures each test verifies one specific scenario for clear failure messages
-tags: tests, focused, single-scenario, single-assertion
----
-
 ## Keep Tests Focused
 
 Each test should exercise one specific scenario. Multiple scenarios in one test make failures hard to diagnose.

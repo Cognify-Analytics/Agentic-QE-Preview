@@ -1,10 +1,3 @@
----
-title: Technology Stack Detection
-impact: MEDIUM
-impactDescription: ensures tests use correct frameworks and conventions for the project
-tags: tests, technology, detection, frameworks, conventions
----
-
 ## Technology Stack Detection
 
 When writing tests, first detect the programming language and technology stack from the project.

@@ -1,10 +1,3 @@
----
-title: Kotlin Test Conventions (JUnit 5 and Kotest)
-impact: HIGH
-impactDescription: keeps generated Kotlin tests idiomatic to the framework the repo uses, with null-safe, data-class-based test data
-tags: kotlin, junit5, kotest, kotlin-test, data-classes, nullability
----
-
 ## Kotlin Test Conventions
 
 Also read `rules/lang/jvm/jvm-build-and-location.md` (build, location, coverage). Mocking is in `mocking-kotlin.md`, coroutines in `coroutines-testing.md`. Where the Java rules and these differ, these win for Kotlin code.

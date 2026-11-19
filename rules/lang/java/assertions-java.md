@@ -1,10 +1,3 @@
----
-title: Assertions in Java Tests
-impact: HIGH
-impactDescription: uses the assertion library already on the classpath, with the comparison that matches the value (BigDecimal, collections, Optional, records)
-tags: java, assertj, assertions, hamcrest, junit-assertions, bigdecimal
----
-
 ## Assertions in Java Tests
 
 ### 1. Which Library

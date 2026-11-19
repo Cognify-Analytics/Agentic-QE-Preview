@@ -1,10 +1,3 @@
----
-title: Test Data in Java
-impact: MEDIUM
-impactDescription: builds readable, compile-safe test objects with builders and factories instead of long constructor calls and reflection
-tags: java, test-data, builders, object-mother, records, lombok
----
-
 ## Test Data in Java
 
 `cleanly-create-test-data.md` sets the principle: hide what's irrelevant, show what the test depends on. In Java the usual tools are a **test data builder** for objects with many fields, and **static factory methods** for common named cases.

@@ -1,10 +1,3 @@
----
-title: JavaScript / TypeScript Test Location
-impact: HIGH
-impactDescription: puts tests where the runner will actually find them, without turning helpers into broken suites or tests into Next.js routes
-tags: javascript, typescript, test-location, jest, vitest, nextjs
----
-
 ## JavaScript / TypeScript Test Location
 
 `rules/test-location-map.md` decides the order: **the repo's existing convention always wins**, and the default below only applies when the repo has no tests at all. This file adds what's specific to JS/TS. There are several common conventions, and a file the runner doesn't match never runs.

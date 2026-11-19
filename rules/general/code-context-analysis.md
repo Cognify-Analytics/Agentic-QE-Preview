@@ -1,10 +1,3 @@
----
-title: Code Context Analysis
-impact: HIGH
-impactDescription: ensures correct test data by understanding the full dependency graph
-tags: tests, context, dependencies, dto, entity, analysis
----
-
 ## Code Context Analysis
 
 Before generating tests, read all types/structures referenced by the target code. Tests that use wrong constructors, miss required fields, or create invalid objects will fail at compile/run time or produce meaningless results.

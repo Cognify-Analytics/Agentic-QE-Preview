@@ -1,10 +1,3 @@
----
-title: What Makes a Good Test
-impact: HIGH
-impactDescription: defines core qualities that every test should have
-tags: tests, quality, clarity, completeness, conciseness, resilience
----
-
 ## What Makes a Good Test
 
 Every good test should have four qualities: Clarity, Completeness, Conciseness, and Resilience.

@@ -1,10 +1,3 @@
----
-title: Testing Python Web Backends
-impact: HIGH
-impactDescription: tests FastAPI, Starlette, Flask and Django apps through their routes and middleware in-process, with the database, external APIs and heavy libraries faked at the module's own seams
-tags: python, fastapi, starlette, flask, django, testclient, backend, routes, middleware, auth
----
-
 ## Testing Python Web Backends
 
 Read this when a Python stack depends on `fastapi`, `starlette`, `flask` or `django`. It builds on the rest of `rules/lang/python/`.

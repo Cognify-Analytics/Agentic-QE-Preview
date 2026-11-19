@@ -1,10 +1,3 @@
----
-title: Keep Cause and Effect Clear
-impact: HIGH
-impactDescription: ensures tests are self-contained and easy to understand
-tags: tests, readability, cause-effect, self-contained
----
-
 ## Keep Cause and Effect Clear
 
 Write tests where the effects immediately follow the causes. Avoid relying on distant setup code.

@@ -1,10 +1,3 @@
----
-title: Testing Spring Boot Applications
-impact: HIGH
-impactDescription: unit-tests Spring code without the cost and fragility of a full application context, and uses test slices only where they test something a plain unit test cannot
-tags: java, kotlin, spring-boot, mockmvc, webmvctest, mockitobean, validation, spring-security
----
-
 ## Testing Spring Boot Applications
 
 Read this when the build depends on `spring-boot-starter-*`. It applies to Java and Kotlin; Kotlin specifics are in §8.

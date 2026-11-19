@@ -1,10 +1,3 @@
----
-title: Test Naming Conventions
-impact: HIGH
-impactDescription: ensures consistent, readable test names that describe behavior
-tags: tests, naming, conventions, readability
----
-
 ## Test Naming Conventions
 
 Use consistent naming patterns that clearly describe the test scenario and expected outcome.

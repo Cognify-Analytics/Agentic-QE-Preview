@@ -1,10 +1,3 @@
----
-title: Post-Generation Test Execution Verification
-impact: HIGH
-impactDescription: ensures generated tests actually pass, not just compile
-tags: tests, execution, verification, pass, fail
----
-
 ## Post-Generation Test Execution Verification
 
 After tests compile/build successfully, run them and verify they pass. Tests that compile but fail are not deliverable.

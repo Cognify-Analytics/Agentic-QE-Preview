@@ -1,10 +1,3 @@
----
-title: Test Case Generation Strategy
-impact: HIGH
-impactDescription: ensures comprehensive coverage without redundant tests
-tags: tests, test-cases, strategy, coverage, branches
----
-
 ## Test Case Generation Strategy
 
 Apply strict INCLUDE/EXCLUDE criteria to generate meaningful test cases that cover all code branches without redundancy.

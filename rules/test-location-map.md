@@ -1,10 +1,3 @@
----
-title: Test Location Map
-impact: HIGH
-impactDescription: defines where generated tests are written, per language, without ever inventing a convention
-tags: tests, location, conventions, languages
----
-
 ## Test Location Map
 
 **We never invent a test location.** Check in this order:

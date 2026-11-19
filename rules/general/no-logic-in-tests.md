@@ -1,10 +1,3 @@
----
-title: Don't Put Logic in Tests
-impact: HIGH
-impactDescription: prevents bugs in tests and makes expected values obvious
-tags: tests, simplicity, kiss, no-logic, readability
----
-
 ## Don't Put Logic in Tests
 
 Tests should be straightforward with no conditional logic, loops, or string concatenation. Keep expected values explicit and literal.

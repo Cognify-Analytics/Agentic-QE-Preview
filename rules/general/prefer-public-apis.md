@@ -1,10 +1,3 @@
----
-title: Prefer Testing Public APIs Over Private Methods
-impact: HIGH
-impactDescription: creates resilient tests that survive refactoring
-tags: tests, public-api, private-methods, refactoring, resilience
----
-
 ## Prefer Testing Public APIs Over Private Methods
 
 Test the public interface of your code. Private/internal functions and implementation-detail classes should be tested indirectly through public APIs.

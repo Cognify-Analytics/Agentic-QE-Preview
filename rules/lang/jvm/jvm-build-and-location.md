@@ -1,10 +1,3 @@
----
-title: JVM Build Tools, Test Location and Coverage (Java and Kotlin)
-impact: HIGH
-impactDescription: compiles, runs, places and measures JVM tests through Maven or Gradle exactly as the build already defines them, without editing the build
-tags: java, kotlin, jvm, maven, gradle, junit, jacoco, kover, surefire, test-location
----
-
 ## JVM Build Tools, Test Location and Coverage
 
 Shared by Java (`rules/lang/java/`) and Kotlin (`rules/lang/kotlin/`). Language idioms live in those folders; Spring Boot in `frameworks/spring-boot.md`.
